@@ -1,0 +1,3 @@
+[submodule "edb-sh"]
+	path = edb-sh
+	url = https://git.smile.fr/erp/edb-sh.git
